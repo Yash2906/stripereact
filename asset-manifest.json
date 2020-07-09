@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/stripereact/static/css/main.5f361e03.chunk.css",
+    "main.js": "/stripereact/static/js/main.ab2dcb0a.chunk.js",
+    "main.js.map": "/stripereact/static/js/main.ab2dcb0a.chunk.js.map",
+    "runtime-main.js": "/stripereact/static/js/runtime-main.39f73439.js",
+    "runtime-main.js.map": "/stripereact/static/js/runtime-main.39f73439.js.map",
+    "static/js/2.8c966022.chunk.js": "/stripereact/static/js/2.8c966022.chunk.js",
+    "static/js/2.8c966022.chunk.js.map": "/stripereact/static/js/2.8c966022.chunk.js.map",
+    "index.html": "/stripereact/index.html",
+    "precache-manifest.c1d80fe591734305c16c33da33c9bafb.js": "/stripereact/precache-manifest.c1d80fe591734305c16c33da33c9bafb.js",
+    "service-worker.js": "/stripereact/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/stripereact/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.8c966022.chunk.js.LICENSE.txt": "/stripereact/static/js/2.8c966022.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/stripereact/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39f73439.js",
+    "static/js/2.8c966022.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.ab2dcb0a.chunk.js"
+  ]
+}
